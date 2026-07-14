@@ -26,7 +26,7 @@ I'm always exploring new technologies, contributing to projects, and continuousl
 <p align="left">
 
 <a href="https://github.com/sathwikchava">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=mail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sathwik-chava-91096027b/">
