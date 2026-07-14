@@ -19,7 +19,7 @@ I'm always exploring new technologies, contributing to projects, and continuousl
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,sql,haskell,js,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,haskell,js,html,css,bash"/>
 </p>
 # Connect with Me
 
