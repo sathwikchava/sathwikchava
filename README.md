@@ -24,19 +24,15 @@ I'm always exploring new technologies, contributing to projects, and continuousl
 # Connect with Me
 
 <p align="left">
-
-<a href="https://github.com/sathwikchava">
-<img src="https://skillicons.dev/icons?i=mail"/>
+<a href="mailto:sathwikchava2005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/sathwik-chava-91096027b/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
-
-Email: sathwikchava2005@gmail.com
-
 ---
 
 <p align="center">
