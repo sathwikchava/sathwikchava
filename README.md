@@ -16,70 +16,11 @@ I'm always exploring new technologies, contributing to projects, and continuousl
 
 ---
 
-## Tech Stack
-
 ### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql,bash"/>
 </p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-</p>
-
-**Libraries**
-
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- NumPy
-- Pandas
-- OpenCV
-- YOLOv8
-- SHAP
-- FAISS
-- HuggingFace
-- LangChain
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathwikchava&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikchava&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikchava&theme=tokyonight"/>
-
-</p>
-
----
-
-# GitHub Activity Graph
-
-[![Sathwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathwikchava&theme=tokyo-night)](https://github.com/sathwikchava)
-
----
-
-# Achievements
-
-- Research Intern — IIT Hyderabad
-- AI & Computer Vision Research
-- Open Source Developer
-- Machine Learning Projects
-- Full Stack Development
-
----
-
 # Connect with Me
 
 <p align="left">
